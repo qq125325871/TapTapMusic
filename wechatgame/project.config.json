@@ -1,0 +1,35 @@
+{
+	"description": "项目配置文件。",
+	"setting": {
+		"urlCheck": true,
+		"es6": true,
+		"postcss": true,
+		"minified": true,
+		"newFeature": false,
+		"autoAudits": false
+	},
+	"compileType": "game",
+	"libVersion": "game",
+	"appid": "wx0bb7be49820d8581",
+	"projectname": "%E5%B0%8F%E9%BB%84%E9%B8%A1%E5%BF%AB%E8%B7%91%E8%8A%82%E5%A5%8F%E6%B8%B8%E6%88%8F",
+	"isGameTourist": true,
+	"condition": {
+		"search": {
+			"current": -1,
+			"list": []
+		},
+		"conversation": {
+			"current": -1,
+			"list": []
+		},
+		"game": {
+			"currentL": -1,
+			"list": [],
+			"current": -1
+		},
+		"miniprogram": {
+			"current": -1,
+			"list": []
+		}
+	}
+}
